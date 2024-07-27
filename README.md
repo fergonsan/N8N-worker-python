@@ -1,0 +1,1 @@
+En este repositorio encontrarás el fichero Dockerfile para instalar python y algunas dependencias en el contenedor de n8n y, además, el docker-compose para desplegar toda una instalación de n8n en local dockerizada.
